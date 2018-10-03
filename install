@@ -1,0 +1,4 @@
+#!/bin/sh
+
+chmod +x pwshx
+sudo cp -f pwshx /usr/bin
